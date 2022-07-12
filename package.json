@@ -1,0 +1,18 @@
+{
+  "name": "revisao-12-07-bloco-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
